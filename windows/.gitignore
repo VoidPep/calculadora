@@ -1,5 +1,7 @@
 flutter/ephemeral/
 
+windows/
+
 # Visual Studio user-specific files.
 *.suo
 *.user
